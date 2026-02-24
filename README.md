@@ -1,4 +1,4 @@
 # apnacollege
 this is new project 
 <br>
-author - umesh ratohe
+author - umesh rathore
